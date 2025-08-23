@@ -1,0 +1,47 @@
+<body>
+   <table>
+    <tr>
+        <th>sno<th>
+        <th>name<th></tr>
+        
+        
+        <tr>
+        
+            <td>1.</td>
+        
+            <td>Anubhav</td>
+        
+            <td>Male </td>
+        
+        </tr>
+        
+        <tr>
+        
+            <td>2.</td>
+        
+            <td>Mazidat</td>
+        
+            <td>Female</td>
+        
+        </tr>
+        
+        <tr>
+        
+            <td>3.</td>
+        
+            <td> Veer Patel</td>
+        
+            <td>Male</td>
+        
+        </tr>
+        
+        </table>
+
+
+    <tr>
+
+
+   </table>
+
+
+</body>
